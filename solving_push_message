@@ -1,0 +1,19 @@
+
+Please enter a commit message solution:
+
+
+press "i"
+write your merge message
+press "esc"
+write ":wq"
+then press enter
+
+______________________________
+
+To Override:
+
+to quit WITHOUT saving. do :q!
+
+to save and quit, do :wq
+
+to save only, do :w
